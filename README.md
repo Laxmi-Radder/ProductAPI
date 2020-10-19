@@ -48,7 +48,6 @@ Sample Data
 * this will start a server on http://localhost:8080
 * you can change the port under application.properties
 
-### Sending us your solution
+### Swagger API
 
-* Link to your public git repo 
-* Or a link to your zipped up code
+* To access Product API endpoints use the link: http://localhost:8080/swagger-ui.html
